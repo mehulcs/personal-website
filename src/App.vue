@@ -64,22 +64,22 @@
               <v-flex mt-4 py-2 style="background-color:#7986CB;">
                 <v-layout row justify-center align-center>
                   <v-flex shrink mr-2>
-                    <a href="https://medium.com/@mehulcs">
+                    <a href="https://medium.com/@mehulcs" target="_blank">
                       <i class="fab fa-lg fa-medium white--text" aria-hidden="true"></i>
                     </a>
                   </v-flex>
                   <v-flex shrink mr-2>
-                    <a href="https://www.linkedin.com/in/mehulcs">
+                    <a href="https://www.linkedin.com/in/mehulcs" target="_blank">
                       <i class="fab fa-lg fa-linkedin white--text" aria-hidden="true"></i>
                     </a>
                   </v-flex>
                   <v-flex shrink mr-2>
-                    <a href="https://twitter.com/mehul_cs">
+                    <a href="https://twitter.com/mehul_cs" target="_blank">
                       <i class="fab fa-lg fa-twitter-square white--text" aria-hidden="true"></i>
                     </a>
                   </v-flex>
                   <v-flex shrink>
-                    <a href="https://github.com/mehulcs">
+                    <a href="https://github.com/mehulcs" target="_blank">
                       <i class="fab fa-lg fa-github white--text" aria-hidden="true"></i>
                     </a>
                   </v-flex>

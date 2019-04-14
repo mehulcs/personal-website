@@ -73,9 +73,14 @@
                       <i class="fab fa-lg fa-linkedin white--text" aria-hidden="true"></i>
                     </a>
                   </v-flex>
-                  <v-flex shrink>
+                  <v-flex shrink mr-2>
                     <a href="https://twitter.com/mehul_cs">
                       <i class="fab fa-lg fa-twitter-square white--text" aria-hidden="true"></i>
+                    </a>
+                  </v-flex>
+                  <v-flex shrink>
+                    <a href="https://github.com/mehulcs">
+                      <i class="fab fa-lg fa-github white--text" aria-hidden="true"></i>
                     </a>
                   </v-flex>
                 </v-layout>

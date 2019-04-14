@@ -1,4 +1,4 @@
-# pweb
+# Personal website
 
 ## Project setup
 ```

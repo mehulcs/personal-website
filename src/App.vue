@@ -5,13 +5,13 @@
         <v-flex xs11 sm7 md5 lg3 py-3>
           <v-card elevation="4">
             <v-layout column wrap>
-              <v-flex py-3 style="background:linear-gradient(#7986CB 70%, white 30%);">
+              <v-flex py-3>
                 <v-layout justify-center>
                   <img
-                    src="./assets/mehulprajapati.jpeg"
+                    src="./assets/mehulprajapati.jpg"
                     width="150"
                     height="150"
-                    style="border-radius:100%;border:3px solid #7986CB;"
+                    style="border-radius:100%;border:3px solid rgb(100, 112, 167);"
                     alt="Mehul Prajapati"
                   >
                 </v-layout>
@@ -21,11 +21,11 @@
                   <v-flex>
                     <v-layout column align-center>
                       <span class="display-1">Mehul Prajapati</span>
-                      <span class="subheading" style="color:#7986CB;">Software Engineer</span>
+                      <span class="subheading" style="color:rgb(100, 112, 167);">Software Engineer</span>
                     </v-layout>
                   </v-flex>
                   <v-flex mt-3>
-                    <span>I'm software engineer with experience of full stack and blockchain applications development. I write articles on JavaScript and other technologies.</span>
+                    <span>I'm a Software Engineer from India and this is my personal website. I'm pretty good at full-stack development and I have a keen interest in AI/ML and Data Science applications.</span>
                   </v-flex>
                   <v-divider class="mt-4"></v-divider>
                   <v-flex mt-3>
@@ -53,7 +53,7 @@
                       <v-flex xs12 sm6>
                         <v-divider class="my-3 hidden-sm-and-up"></v-divider>
                         <v-layout column align-center justify-center>
-                          <v-icon color="#7986CB">location_on</v-icon>
+                          <v-icon color="rgb(100, 112, 167)">location_on</v-icon>
                           <span class="mt-1">Bengaluru, India</span>
                         </v-layout>
                       </v-flex>
@@ -61,26 +61,26 @@
                   </v-flex>
                 </v-layout>
               </v-flex>
-              <v-flex mt-4 py-2 style="background-color:#7986CB;">
+              <v-flex mt-4 py-2>
                 <v-layout row justify-center align-center>
                   <v-flex shrink mr-2>
                     <a href="https://medium.com/@mehulcs" target="_blank">
-                      <i class="fab fa-lg fa-medium white--text" aria-hidden="true"></i>
+                      <i class="fab fa-lg fa-medium" style="color: rgb(100, 112, 167);" aria-hidden="true"></i>
                     </a>
                   </v-flex>
                   <v-flex shrink mr-2>
                     <a href="https://www.linkedin.com/in/mehulcs" target="_blank">
-                      <i class="fab fa-lg fa-linkedin white--text" aria-hidden="true"></i>
+                      <i class="fab fa-lg fa-linkedin" style="color: rgb(100, 112, 167);" aria-hidden="true"></i>
                     </a>
                   </v-flex>
                   <v-flex shrink mr-2>
                     <a href="https://twitter.com/mehul_cs" target="_blank">
-                      <i class="fab fa-lg fa-twitter-square white--text" aria-hidden="true"></i>
+                      <i class="fab fa-lg fa-twitter-square" style="color: rgb(100, 112, 167);" aria-hidden="true"></i>
                     </a>
                   </v-flex>
                   <v-flex shrink>
                     <a href="https://github.com/mehulcs" target="_blank">
-                      <i class="fab fa-lg fa-github white--text" aria-hidden="true"></i>
+                      <i class="fab fa-lg fa-github" style="color: rgb(100, 112, 167);" aria-hidden="true"></i>
                     </a>
                   </v-flex>
                 </v-layout>
